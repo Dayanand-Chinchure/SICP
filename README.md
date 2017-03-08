@@ -1,2 +1,2 @@
 # SICP
-SICP assignment chapter wise
+SICP assignments
